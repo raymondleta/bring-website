@@ -53,3 +53,11 @@ img{
   margin-top: 19px;
   font-weight: 800;
 }
+footer{
+  margin-top: 290px;
+  margin-right: 230px;
+}
+footer img{
+  width: 70px;
+  height: 70px;
+}
